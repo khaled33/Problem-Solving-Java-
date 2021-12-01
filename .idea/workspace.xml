@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="824af560-0fcf-4d3a-aa6f-004626dad860" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/com/src/main/java/SomeSums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/src/main/java/PUM.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/target/classes/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/com/target/classes/Factorial.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/com/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,11 +44,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/com/src/main/java/SomeSums.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
               <caret line="2" column="21" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/com/src/main/java/PUM.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -74,6 +82,7 @@
         <option value="$PROJECT_DIR$/com/src/main/java/Factorial.java" />
         <option value="$PROJECT_DIR$/com/src/main/java/Digits.java" />
         <option value="$PROJECT_DIR$/com/src/main/java/SomeSums.java" />
+        <option value="$PROJECT_DIR$/com/src/main/java/PUM.java" />
       </list>
     </option>
   </component>
@@ -152,7 +161,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SomeSums">
+  <component name="RunManager" selected="Application.PUM">
     <configuration name="Digits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Digits" />
       <module name="ProblemSolving" />
@@ -167,6 +176,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PUM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PUM" />
+      <module name="ProblemSolving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SomeSums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SomeSums" />
       <module name="ProblemSolving" />
@@ -176,6 +192,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PUM" />
         <item itemvalue="Application.SomeSums" />
         <item itemvalue="Application.Digits" />
         <item itemvalue="Application.Factorial" />
@@ -192,7 +209,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638285792147</updated>
-      <workItem from="1638285793401" duration="16074000" />
+      <workItem from="1638285793401" duration="17433000" />
     </task>
     <task id="LOCAL-00001" summary="Digits">
       <created>1638295457803</created>
@@ -201,11 +218,18 @@
       <option name="project" value="LOCAL" />
       <updated>1638295457803</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="SomeSums">
+      <created>1638307426818</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1638307426818</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16074000" />
+    <option name="totallyTimeSpent" value="17433000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -248,7 +272,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Digits" />
-    <option name="LAST_COMMIT_MESSAGE" value="Digits" />
+    <MESSAGE value="SomeSums" />
+    <option name="LAST_COMMIT_MESSAGE" value="SomeSums" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Factorial.java">
@@ -283,6 +308,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="21" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/src/main/java/PUM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="16" />
         </state>
       </provider>
     </entry>
