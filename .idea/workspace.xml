@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="824af560-0fcf-4d3a-aa6f-004626dad860" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/com/src/main/java/ColorfulStones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/src/main/java/NightAtTheMuseum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/com/target/" />
@@ -89,11 +89,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/com/src/main/java/ColorfulStones.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="396">
+              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/com/src/main/java/NightAtTheMuseum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="436">
+              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -132,6 +141,7 @@
         <option value="$PROJECT_DIR$/com/src/main/java/SumofConsecutiveOddNumbers.java" />
         <option value="$PROJECT_DIR$/com/src/main/java/SummationFrom1toN.java" />
         <option value="$PROJECT_DIR$/com/src/main/java/ColorfulStones.java" />
+        <option value="$PROJECT_DIR$/com/src/main/java/NightAtTheMuseum.java" />
       </list>
     </option>
   </component>
@@ -209,7 +219,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ColorfulStones">
+  <component name="RunManager" selected="Application.NightAtTheMuseum">
     <configuration name="ColorfulStones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ColorfulStones" />
       <module name="ProblemSolving" />
@@ -217,8 +227,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PUM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PUM" />
+    <configuration name="NightAtTheMuseum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NightAtTheMuseum" />
       <module name="ProblemSolving" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -247,11 +257,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NightAtTheMuseum" />
         <item itemvalue="Application.ColorfulStones" />
         <item itemvalue="Application.SummationFrom1toN" />
         <item itemvalue="Application.SumofConsecutiveOddNumbers" />
         <item itemvalue="Application.SearchInMatrix" />
-        <item itemvalue="Application.PUM" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +275,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638285792147</updated>
-      <workItem from="1638285793401" duration="34883000" />
+      <workItem from="1638285793401" duration="36787000" />
     </task>
     <task id="LOCAL-00001" summary="Digits">
       <created>1638295457803</created>
@@ -309,11 +319,18 @@
       <option name="project" value="LOCAL" />
       <updated>1638388456142</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Color ful Stones">
+      <created>1638621632586</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1638621632586</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34883000" />
+    <option name="totallyTimeSpent" value="36787000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -325,7 +342,7 @@
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="simpleUML" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -335,7 +352,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38678223" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38678223" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -361,7 +378,8 @@
     <MESSAGE value="Search In Matrix" />
     <MESSAGE value="Sum of Consecutive Odd Numbers" />
     <MESSAGE value="Summation From 1 to N" />
-    <option name="LAST_COMMIT_MESSAGE" value="Summation From 1 to N" />
+    <MESSAGE value="Color ful Stones" />
+    <option name="LAST_COMMIT_MESSAGE" value="Color ful Stones" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Factorial.java">
@@ -436,8 +454,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/com/src/main/java/ColorfulStones.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="396">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/src/main/java/NightAtTheMuseum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
         </state>
       </provider>
     </entry>
