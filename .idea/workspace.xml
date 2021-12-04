@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="824af560-0fcf-4d3a-aa6f-004626dad860" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/com/src/main/java/NightAtTheMuseum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/src/main/java/LeftHandersRightHandersAndAmbidexters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/src/main/java/YaroslavPermutations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/com/target/" />
@@ -98,11 +99,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/com/src/main/java/NightAtTheMuseum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+            <state relative-caret-position="440">
+              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/src/main/java/YaroslavPermutations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="501">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/com/src/main/java/LeftHandersRightHandersAndAmbidexters.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="38" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -142,6 +164,8 @@
         <option value="$PROJECT_DIR$/com/src/main/java/SummationFrom1toN.java" />
         <option value="$PROJECT_DIR$/com/src/main/java/ColorfulStones.java" />
         <option value="$PROJECT_DIR$/com/src/main/java/NightAtTheMuseum.java" />
+        <option value="$PROJECT_DIR$/com/src/main/java/YaroslavPermutations.java" />
+        <option value="$PROJECT_DIR$/com/src/main/java/LeftHandersRightHandersAndAmbidexters.java" />
       </list>
     </option>
   </component>
@@ -219,9 +243,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NightAtTheMuseum">
+  <component name="RunManager" selected="Application.LeftHandersRightHandersAndAmbidexters">
     <configuration name="ColorfulStones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ColorfulStones" />
+      <module name="ProblemSolving" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeftHandersRightHandersAndAmbidexters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeftHandersRightHandersAndAmbidexters" />
       <module name="ProblemSolving" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -234,13 +265,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchInMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SearchInMatrix" />
-      <module name="ProblemSolving" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SummationFrom1toN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SummationFrom1toN" />
       <module name="ProblemSolving" />
@@ -248,8 +272,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumofConsecutiveOddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumofConsecutiveOddNumbers" />
+    <configuration name="YaroslavPermutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="YaroslavPermutations" />
       <module name="ProblemSolving" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -257,11 +281,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeftHandersRightHandersAndAmbidexters" />
+        <item itemvalue="Application.YaroslavPermutations" />
         <item itemvalue="Application.NightAtTheMuseum" />
         <item itemvalue="Application.ColorfulStones" />
         <item itemvalue="Application.SummationFrom1toN" />
-        <item itemvalue="Application.SumofConsecutiveOddNumbers" />
-        <item itemvalue="Application.SearchInMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -275,7 +299,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638285792147</updated>
-      <workItem from="1638285793401" duration="36787000" />
+      <workItem from="1638285793401" duration="46228000" />
     </task>
     <task id="LOCAL-00001" summary="Digits">
       <created>1638295457803</created>
@@ -326,11 +350,18 @@
       <option name="project" value="LOCAL" />
       <updated>1638621632586</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Night-At-The Museum">
+      <created>1638624024646</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1638624024646</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36787000" />
+    <option name="totallyTimeSpent" value="46228000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -379,7 +410,8 @@
     <MESSAGE value="Sum of Consecutive Odd Numbers" />
     <MESSAGE value="Summation From 1 to N" />
     <MESSAGE value="Color ful Stones" />
-    <option name="LAST_COMMIT_MESSAGE" value="Color ful Stones" />
+    <MESSAGE value="Night-At-The Museum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Night-At-The Museum" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Factorial.java">
@@ -461,8 +493,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/com/src/main/java/NightAtTheMuseum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        <state relative-caret-position="440">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/src/main/java/YaroslavPermutations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/src/main/java/LeftHandersRightHandersAndAmbidexters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="50" />
         </state>
       </provider>
     </entry>
