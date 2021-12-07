@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="824af560-0fcf-4d3a-aa6f-004626dad860" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/com/src/main/java/BearBigBrother.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/src/main/java/Team.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/com/target/" />
@@ -17,15 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/com/src/main/java/Factorial.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -128,11 +119,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/com/src/main/java/BearBigBrother.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="22" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="22" />
+            <state relative-caret-position="88">
+              <caret line="4" column="30" selection-start-line="4" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/com/src/main/java/Team.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -176,6 +176,7 @@
         <option value="$PROJECT_DIR$/com/src/main/java/LeftHandersRightHandersAndAmbidexters.java" />
         <option value="$PROJECT_DIR$/com/src/main/java/PanScales.java" />
         <option value="$PROJECT_DIR$/com/src/main/java/BearBigBrother.java" />
+        <option value="$PROJECT_DIR$/com/src/main/java/Team.java" />
       </list>
     </option>
   </component>
@@ -192,7 +193,35 @@
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Problem Solving (Java)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Problem Solving (Java)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Problem Solving (Java)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Problem Solving (Java)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -218,7 +247,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BearBigBrother">
+  <component name="RunManager" selected="Application.Team">
     <configuration name="BearBigBrother" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BearBigBrother" />
       <module name="ProblemSolving" />
@@ -233,15 +262,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NightAtTheMuseum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NightAtTheMuseum" />
+    <configuration name="PanScales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PanScales" />
       <module name="ProblemSolving" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PanScales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PanScales" />
+    <configuration name="Team" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Team" />
       <module name="ProblemSolving" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -256,11 +285,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Team" />
         <item itemvalue="Application.BearBigBrother" />
         <item itemvalue="Application.PanScales" />
         <item itemvalue="Application.LeftHandersRightHandersAndAmbidexters" />
         <item itemvalue="Application.YaroslavPermutations" />
-        <item itemvalue="Application.NightAtTheMuseum" />
       </list>
     </recent_temporary>
   </component>
@@ -275,7 +304,7 @@
       <option name="presentableId" value="Default" />
       <updated>1638285792147</updated>
       <workItem from="1638285793401" duration="51422000" />
-      <workItem from="1638878714518" duration="463000" />
+      <workItem from="1638878714518" duration="4559000" />
     </task>
     <task id="LOCAL-00001" summary="Digits">
       <created>1638295457803</created>
@@ -347,15 +376,21 @@
       <option name="project" value="LOCAL" />
       <updated>1638643173239</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Bear Big Brother">
+      <created>1638879336381</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1638879336381</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51885000" />
+    <option name="totallyTimeSpent" value="55981000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -403,7 +438,8 @@
     <MESSAGE value="Night-At-The Museum" />
     <MESSAGE value="Left Handers Right Handers And Ambidexters" />
     <MESSAGE value="Pan Scales" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pan Scales" />
+    <MESSAGE value="Bear Big Brother" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bear Big Brother" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Factorial.java" />
@@ -513,8 +549,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/com/src/main/java/BearBigBrother.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="22" />
+        <state relative-caret-position="88">
+          <caret line="4" column="30" selection-start-line="4" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/src/main/java/Team.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
