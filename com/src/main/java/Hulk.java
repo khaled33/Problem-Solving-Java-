@@ -7,12 +7,12 @@ public class Hulk {
         int input=sc.nextInt();
 
         for (int i = 1; i <= input; i++) {
-            if (i==input){
-                System.out.print(" I hate it");
+            if (i==input && i%2!=0){
+                System.out.print("I hate it");
             }
-            else if (i%2==0){
+            else if (i%2==0 ){
 
-                System.out.print("I love that ");
+                System.out.print("I love it ");
             }else  {
                 System.out.print("I hate that ");
             }

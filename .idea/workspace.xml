@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="824af560-0fcf-4d3a-aa6f-004626dad860" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/com/src/main/java/Hulk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/src/main/java/RegularBracketSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/src/main/java/Hulk.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/src/main/java/Hulk.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/com/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/com/src/main/java/SearchOfAnEasyProblem.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="9" column="37" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="15" selection-end-column="9" />
+              <caret line="9" column="37" selection-start-line="4" selection-start-column="8" selection-end-line="15" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -30,16 +32,25 @@
         <entry file="file://$PROJECT_DIR$/com/src/main/java/SuffixThree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
-              <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="24" />
+              <caret line="2" column="20" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/src/main/java/Hulk.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/com/src/main/java/Hulk.java">
+        <entry file="file://$PROJECT_DIR$/com/src/main/java/RegularBracketSequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+            <state relative-caret-position="484">
+              <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -83,13 +94,15 @@
         <option value="$PROJECT_DIR$/com/src/main/java/SearchOfAnEasyProblem.java" />
         <option value="$PROJECT_DIR$/com/src/main/java/SuffixThree.java" />
         <option value="$PROJECT_DIR$/com/src/main/java/Hulk.java" />
+        <option value="$PROJECT_DIR$/com/src/main/java/RegularBracketSequence.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="2576" />
+    <option name="height" value="1416" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -97,7 +110,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -128,6 +140,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -135,7 +148,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last.edited.regexp" value="Sample Text" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CS107-2021-ICWars" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -153,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Hulk">
+  <component name="RunManager" selected="Application.RegularBracketSequence">
     <configuration name="Coins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Coins" />
       <module name="ProblemSolving" />
@@ -161,15 +174,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Horseshoe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Horseshoe" />
+    <configuration name="Hulk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hulk" />
       <module name="ProblemSolving" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hulk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hulk" />
+    <configuration name="RegularBracketSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RegularBracketSequence" />
       <module name="ProblemSolving" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -191,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RegularBracketSequence" />
         <item itemvalue="Application.Hulk" />
         <item itemvalue="Application.SuffixThree" />
         <item itemvalue="Application.WayTooLongWords" />
         <item itemvalue="Application.Coins" />
-        <item itemvalue="Application.Horseshoe" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +223,9 @@
       <option name="presentableId" value="Default" />
       <updated>1638285792147</updated>
       <workItem from="1638285793401" duration="51422000" />
-      <workItem from="1638878714518" duration="25644000" />
+      <workItem from="1638878714518" duration="27108000" />
+      <workItem from="1639680952854" duration="68000" />
+      <workItem from="1639928196416" duration="3532000" />
     </task>
     <task id="LOCAL-00001" summary="Digits">
       <created>1638295457803</created>
@@ -345,17 +360,24 @@
       <option name="project" value="LOCAL" />
       <updated>1639335868012</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="hulk">
+      <created>1639509884441</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1639509884441</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77066000" />
+    <option name="totallyTimeSpent" value="82130000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-8" width="2576" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25715423" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -365,7 +387,7 @@
       <window_info id="simpleUML" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38678223" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3865939" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -410,7 +432,8 @@
     <MESSAGE value="Way Too Long Words" />
     <MESSAGE value="Search of an Easy Problem" />
     <MESSAGE value="Suffix Three" />
-    <option name="LAST_COMMIT_MESSAGE" value="Suffix Three" />
+    <MESSAGE value="hulk" />
+    <option name="LAST_COMMIT_MESSAGE" value="hulk" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -589,21 +612,28 @@
     <entry file="file://$PROJECT_DIR$/com/src/main/java/SearchOfAnEasyProblem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="9" column="37" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="15" selection-end-column="9" />
+          <caret line="9" column="37" selection-start-line="4" selection-start-column="8" selection-end-line="15" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/com/src/main/java/SuffixThree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="24" />
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/com/src/main/java/Hulk.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        <state relative-caret-position="462">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/src/main/java/RegularBracketSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
         </state>
       </provider>
     </entry>
